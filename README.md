@@ -5,7 +5,7 @@
 ## I'm a curious Developer, serious Learner, and a Trap lover!
 
 - 🔭 I’m currently studying at [Georgia State University][school_website]!
-- 🌱 I’m currently learning ML and AI 🤣
+- 🌱 I’m currently working as software engineer at GIMO JSC
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Finish major courses, take the GRE, and get a research paper
 - ⚡ Fun fact: I love playing soccer, FPS games, and coding in Python
