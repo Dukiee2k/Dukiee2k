@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love playing soccer, FPS games, and coding in Python
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/664YIcXsTLoUgHvIIBXYfo)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Dukiee2k Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DWVPRVPGc4ZVv)
 
 ### Connect with me:
 
